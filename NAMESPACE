@@ -1,0 +1,7 @@
+import("ggplot2")
+import("stats")
+import("mgcv")
+import("gridExtra")
+export("MAUCtest","Slopetest","plotNIRS")
+
+

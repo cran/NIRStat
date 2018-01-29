@@ -1,0 +1,11 @@
+17db6d23b6f3af4365773aed0055fffd *DESCRIPTION
+d47dba30bf26045a4efd8520bb38bc58 *NAMESPACE
+f1a7d512d47820511955c6802bbc9774 *R/MAUC_var.R
+cef223595fd26ed259c1e9742748d764 *R/MAUCtest.R
+a9edd1d14f858d1a7cdb0527aa6834a7 *R/SLOPE_var.R
+eb3cc2d81ca303fd2a08b09b8c8d422a *R/Slopetest.R
+bc84da9e5ef75c5a4f04c158daabb926 *R/blkboot.R
+11a34c0fcbe545f06b2c776fd08ff3ac *R/plotNIRS.R
+260458a94531a0f86ed24fc6cb7e74e9 *man/MAUCtest.Rd
+18a3e16e1b31a4737eac15f11e7b6916 *man/Slopetest.Rd
+0ab751ea5cca5f27b6c7ba90fedafcfb *man/plotNIRS.Rd
