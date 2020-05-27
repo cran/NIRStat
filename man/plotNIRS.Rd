@@ -18,8 +18,8 @@ plotNIRS(Yvec,timevec,transfusionvec)
   This function visualizes the NIRS time series data before and after transfusion. In order to estimate the underlying smoothed curve, it first imputes the data with detection limit (DL) and utilizes a nonparametric regression approach for the imputed data. The time points with DL is in red and others are in black. 
 }
 
-\author{Yikai Wang and Ying Guo\cr
-  Maintainer: Yikai Wang \email{yikai.wang@emory.edu} }
+\author{Yikai Wang [Emory], Xiao Wang [ICF] \cr
+  Maintainer: Yikai Wang \email{johnzon.wyk@gmail.com} }
 
 \examples{
 # Data Simulation

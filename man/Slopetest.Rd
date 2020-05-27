@@ -33,12 +33,12 @@ Slopetest(Yvec,timevec,transfusionvec,SD_est=F,num.permu=1000)
 \references{
 Guo, Y., Wang, Y., Marin, T., Kirk, E., Patel, R., Josephson, C.   \emph{
      Statistical methods for characterizing transfusion-related changes in regional oxygenation using Near-infrared spectroscopy in preterm infants. 
-  } 
+  } Statistical methods in medical research 28.9 (2019): 2710-2723.
 }
 
 
-\author{Yikai Wang and Ying Guo\cr
-  Maintainer: Yikai Wang \email{yikai.wang@emory.edu} }
+\author{Yikai Wang [Emory], Xiao Wang [ICF] \cr
+  Maintainer: Yikai Wang \email{johnzon.wyk@gmail.com} }
   
 \examples{
 # Data Simulation
